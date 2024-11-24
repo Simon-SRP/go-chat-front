@@ -1,0 +1,9 @@
+.button {
+    height: 40px ;
+    background-color: #4CAF50; /* Example color */
+    color: white;
+    border: 1px solid #ccd;
+    border-radius: 30px;
+    cursor: pointer;
+    width: 90px;
+  }

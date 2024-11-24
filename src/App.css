@@ -1,0 +1,6 @@
+.wrapper {
+  display: flex; /* Arrange elements in a row */
+  flex-direction: column; /* Stack elements vertically */
+  gap: 10px; /* Add some space between elements */
+}
+

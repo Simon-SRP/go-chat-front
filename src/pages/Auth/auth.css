@@ -1,0 +1,33 @@
+.auth {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;  /* Centers items within .auth */
+    width: 300px; 
+    height: 250px;       
+    margin: 120px auto;     
+    padding: 20px;
+    border: 1px solid #c2c2c2;
+}
+
+.auth button { 
+    margin-bottom: 15px;   
+}
+
+.auth_body {
+    text-align: left;
+}
+
+.auth input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+}
+
+.auth_top {
+    align-items: center;  /*This works without flex*/
+    text-align: center; /*Center text inside*/
+}
+
+.spacer {
+    height: 0; /* Adjust as needed */
+}
